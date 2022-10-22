@@ -1,0 +1,43 @@
+{
+    "employee_details" :
+  [
+    {
+    "employee_name_1"  :"Ramesh",
+   "DOB"              : "1/2/90",
+    "height"           : " 4'8 ",
+    "city"             : "Kanpur",
+    "State"            : "Uttar Pradesh"
+    
+   },
+   {
+   "employee_name_2" :"Raju",
+   "DOB"         : "12/5/87",
+   "height"      : " 4'10 ",
+   "city"        : "Faizabaad",
+   "State"       : "Uttar Pradesh"
+    },
+   {
+   "employee_name_3" :"Rajesh",
+   "DOB"             : "25/7/89",
+   "height"          : " 5'4 ",
+   "city"            :  "Jaipur",
+   "State"           :  "Rajasthan"
+    },
+    {
+   "employee_name_4" : "Vani",
+   "DOB"             : "22/9/95",
+   "height"          : " 5 ",
+   "city"            : "Banglore",
+   "State"           : "Karnataka"
+    },
+   {
+   "employee_name_5" :"Satish",
+   "DOB"             : "12/2/92",
+   "height"          : " 4'10 ",
+   "city"            : "Pune",
+   "State"           : "Maharashtra"
+    }
+  ]
+}
+
+
